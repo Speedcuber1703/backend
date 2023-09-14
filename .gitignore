@@ -1,0 +1,6 @@
+
+*.jpg
+docker/env
+docker/logs
+*.png
+*.jpeg
